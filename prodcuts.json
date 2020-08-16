@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5f390300744f1ae1dc4818c7"
+  },
+  "name": "handbag",
+  "image": "image.png",
+  "description": "Leather bag",
+  "price": 10,
+  "addedBy": {
+    "$oid": "5f390343744f1ae1dc4818c8"
+  },
+  "updatedBy": {
+    "$oid": "5f39034f744f1ae1dc4818c9"
+  },
+  "createdAt": {
+    "$date": "2020-08-16T07:57:11.849Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-16T07:57:11.849Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f3905fe855a45080c37db9b"
+  },
+  "name": "Tshirt",
+  "image": "image.png",
+  "description": "USpolo Tshirt",
+  "price": 10,
+  "addedBy": {
+    "$oid": "5f390343744f1ae1dc4818c8"
+  },
+  "updatedBy": {
+    "$oid": "5f39034f744f1ae1dc4818c9"
+  },
+  "createdAt": {
+    "$date": "2020-08-16T07:57:11.849Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-16T07:57:11.849Z"
+  }
+}]
